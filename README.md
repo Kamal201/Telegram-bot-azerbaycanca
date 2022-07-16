@@ -2,7 +2,7 @@
 
 ### BIZIM ORTAM MUSIQI BOTU.
 
-<p align="center"><a href="https://t.me/bizimortammm"><img src="https://github.com/Kamalbabayev/TELEGRAMBOT/blob/main/IMAGE.jpeg?raw=true"></a></p>
+<p align="center"><a href="https://t.me/bizimortammm"><img src="https://github.com/Kamal201/Telegram-bot-azerbaycanca/blob/main/IMAGE.jpeg?raw=true"></a></p>
 
 
  <h3 align="center">
